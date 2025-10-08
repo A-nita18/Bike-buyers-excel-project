@@ -42,10 +42,10 @@ Using Excel, I performed:
 
 ## File Description
 |------|--------------|
-| `bike_buyers` | Raw dataset containing demographic and purchase information |
-| `Working sheet` | Cleaned and processed data ready for analysis |
-| `Pivot Table` | Analytical summaries by key variables |
-| `Dashboard` | Interactive Excel dashboard for data visualization |
+`bike_buyers` - Raw dataset containing demographic and purchase information
+`Working sheet` - Cleaned and processed data ready for analysis 
+`Pivot Table` - Analytical summaries by key variables 
+`Dashboard` - Interactive Excel dashboard for data visualization 
 
 ---
 Data Analytics Journey 2025
